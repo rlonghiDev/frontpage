@@ -1,0 +1,16 @@
+body{
+    background-color: lightgray; 
+    font-family: Verdana, Geneva;
+}
+h1{
+    font-weight: bold;
+    opacity: 0.9;
+    border-bottom: 3px solid black;
+}
+.imgSize1{
+    width:30%;
+}
+.mycontainer{
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
